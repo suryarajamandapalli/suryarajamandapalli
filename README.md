@@ -1,4 +1,4 @@
-Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Surya Raja Mandapalli — A Computer Science Engineer 👨‍💻
+Hey, I'm Surya Raja Mandapalli — A Computer Science Engineer 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-@suryarajamandapalli-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suryarajamandapalli/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/suryarajamandapalli)](https://twitter.com/suryarajamandapalli)
