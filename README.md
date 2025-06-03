@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-@suryarajamandapalli-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suryarajamandapalli/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/suryarajamandapalli)](https://twitter.com/suryarajamandapalli)
-![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5)
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
   
